@@ -1,3 +1,5 @@
+2020-02-11 | 11:14
+
 # Syncing between servers:
 
 ## Partial ordering vs total ordering
