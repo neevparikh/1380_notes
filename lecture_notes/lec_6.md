@@ -18,8 +18,8 @@ Vector clock: What we actually use is a vector of these logical clocks $$x \in \
 S1 -e1----e30-----e20-----e7-
                           ^ 
 S2 -e5----e2--------------^--
-          ^>>>V   >>>>>>>>^
-      >>>>^   >>V>^
+          ^>>>\   >>>>>>>>^
+      >>>/     >V>^
 S3 -e21---------e3----------
 Where e2 depends on e21,
       e3 depends on e2,
