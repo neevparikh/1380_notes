@@ -62,7 +62,7 @@ S2 --------------------e3------------------e4->>-----------e7------------------
     - col = k.index(overlap)
     - while not node = route-table.index(row, col)
         - step += 1 
-        - if step == full
+        - if node == self
             - look for k in hashmap 
             - return val or err
         - try again 
